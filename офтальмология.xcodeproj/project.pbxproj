@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B8CFD576287C2798005B9FF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8F266712767EB03005BB97D /* Assets.xcassets */; };
 		B8F266692767EB02005BB97D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8F266682767EB02005BB97D /* AppDelegate.swift */; };
 		B8F2666B2767EB02005BB97D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8F2666A2767EB02005BB97D /* SceneDelegate.swift */; };
 		B8F2666D2767EB02005BB97D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8F2666C2767EB02005BB97D /* ViewController.swift */; };
 		B8F266702767EB02005BB97D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8F2666E2767EB02005BB97D /* Main.storyboard */; };
-		B8F266722767EB03005BB97D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8F266712767EB03005BB97D /* Assets.xcassets */; };
 		B8F266752767EB03005BB97D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8F266732767EB03005BB97D /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -126,7 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8F266752767EB03005BB97D /* LaunchScreen.storyboard in Resources */,
-				B8F266722767EB03005BB97D /* Assets.xcassets in Resources */,
+				B8CFD576287C2798005B9FF5 /* Assets.xcassets in Resources */,
 				B8F266702767EB02005BB97D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,11 +287,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 228W86TPW3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "офтальмология/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Офтальмология";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -317,11 +319,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 228W86TPW3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "офтальмология/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Офтальмология";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
