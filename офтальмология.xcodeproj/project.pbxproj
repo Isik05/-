@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B886273328DDDE4F00D228BB /* PtosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B886273228DDDE4F00D228BB /* PtosViewController.swift */; };
+		B886273528DDE2BA00D228BB /* Птоз.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B886273428DDE2BA00D228BB /* Птоз.pdf */; };
+		B8A3CEBA28E5893000A4DC05 /* OpuholiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CEB928E5893000A4DC05 /* OpuholiViewController.swift */; };
+		B8A3CEBC28E58AE400A4DC05 /* Опухоли век.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CEBB28E58AE400A4DC05 /* Опухоли век.pdf */; };
+		B8A3CEBE28E58BCB00A4DC05 /* Блефарит.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CEBD28E58BCB00A4DC05 /* Блефарит.pdf */; };
+		B8A3CEC028E58C5900A4DC05 /* BlepharitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CEBF28E58C5900A4DC05 /* BlepharitViewController.swift */; };
+		B8A3CEC228E58E7200A4DC05 /* ResnitsiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CEC128E58E7200A4DC05 /* ResnitsiViewController.swift */; };
+		B8A3CEC628E58FFD00A4DC05 /* Патология ресниц.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CEC528E58FFD00A4DC05 /* Патология ресниц.pdf */; };
+		B8A3CECE28E5CBC200A4DC05 /* Гиперметропия.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CEC928E5CBC100A4DC05 /* Гиперметропия.pdf */; };
+		B8A3CECF28E5CBC200A4DC05 /* Миопия.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CECA28E5CBC100A4DC05 /* Миопия.pdf */; };
+		B8A3CED028E5CBC200A4DC05 /* Пресбиопия.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CECB28E5CBC100A4DC05 /* Пресбиопия.pdf */; };
+		B8A3CED128E5CBC200A4DC05 /* Спазм аккомодации.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CECC28E5CBC200A4DC05 /* Спазм аккомодации.pdf */; };
+		B8A3CED228E5CBC200A4DC05 /* Астигматизм.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CECD28E5CBC200A4DC05 /* Астигматизм.pdf */; };
+		B8A3CED428E5CC6300A4DC05 /* MyopiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CED328E5CC6300A4DC05 /* MyopiaViewController.swift */; };
+		B8A3CED628E5CD6300A4DC05 /* HypermetropiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CED528E5CD6300A4DC05 /* HypermetropiaViewController.swift */; };
+		B8A3CED828E5CE4F00A4DC05 /* AstigmatismViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CED728E5CE4F00A4DC05 /* AstigmatismViewController.swift */; };
+		B8A3CEDA28E5CF5800A4DC05 /* SpasmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CED928E5CF5800A4DC05 /* SpasmViewController.swift */; };
+		B8A3CEDE28E5EE5600A4DC05 /* EpiscleritViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CEDD28E5EE5600A4DC05 /* EpiscleritViewController.swift */; };
+		B8A3CEE228E5EF0500A4DC05 /* СКЛЕРИТ.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CEDF28E5EF0400A4DC05 /* СКЛЕРИТ.pdf */; };
+		B8A3CEE328E5EF0500A4DC05 /* Эписклерит.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CEE028E5EF0400A4DC05 /* Эписклерит.pdf */; };
+		B8A3CEE428E5EF0500A4DC05 /* Нарушения развития и аномалии склеры.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B8A3CEE128E5EF0500A4DC05 /* Нарушения развития и аномалии склеры.pdf */; };
+		B8A3CEE628E5EFA300A4DC05 /* ScleritViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CEE528E5EFA300A4DC05 /* ScleritViewController.swift */; };
+		B8A3CEE828E5F05F00A4DC05 /* ScleraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CEE728E5F05F00A4DC05 /* ScleraViewController.swift */; };
 		B8CFD576287C2798005B9FF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8F266712767EB03005BB97D /* Assets.xcassets */; };
 		B8F266692767EB02005BB97D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8F266682767EB02005BB97D /* AppDelegate.swift */; };
 		B8F2666B2767EB02005BB97D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8F2666A2767EB02005BB97D /* SceneDelegate.swift */; };
@@ -16,6 +39,29 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B886273228DDDE4F00D228BB /* PtosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PtosViewController.swift; sourceTree = "<group>"; };
+		B886273428DDE2BA00D228BB /* Птоз.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Птоз.pdf"; sourceTree = "<group>"; };
+		B8A3CEB928E5893000A4DC05 /* OpuholiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpuholiViewController.swift; sourceTree = "<group>"; };
+		B8A3CEBB28E58AE400A4DC05 /* Опухоли век.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Опухоли век.pdf"; sourceTree = "<group>"; };
+		B8A3CEBD28E58BCB00A4DC05 /* Блефарит.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Блефарит.pdf"; sourceTree = "<group>"; };
+		B8A3CEBF28E58C5900A4DC05 /* BlepharitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlepharitViewController.swift; sourceTree = "<group>"; };
+		B8A3CEC128E58E7200A4DC05 /* ResnitsiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResnitsiViewController.swift; sourceTree = "<group>"; };
+		B8A3CEC528E58FFD00A4DC05 /* Патология ресниц.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Патология ресниц.pdf"; sourceTree = "<group>"; };
+		B8A3CEC928E5CBC100A4DC05 /* Гиперметропия.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Гиперметропия.pdf"; sourceTree = "<group>"; };
+		B8A3CECA28E5CBC100A4DC05 /* Миопия.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Миопия.pdf"; sourceTree = "<group>"; };
+		B8A3CECB28E5CBC100A4DC05 /* Пресбиопия.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Пресбиопия.pdf"; sourceTree = "<group>"; };
+		B8A3CECC28E5CBC200A4DC05 /* Спазм аккомодации.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Спазм аккомодации.pdf"; sourceTree = "<group>"; };
+		B8A3CECD28E5CBC200A4DC05 /* Астигматизм.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Астигматизм.pdf"; sourceTree = "<group>"; };
+		B8A3CED328E5CC6300A4DC05 /* MyopiaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyopiaViewController.swift; sourceTree = "<group>"; };
+		B8A3CED528E5CD6300A4DC05 /* HypermetropiaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HypermetropiaViewController.swift; sourceTree = "<group>"; };
+		B8A3CED728E5CE4F00A4DC05 /* AstigmatismViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstigmatismViewController.swift; sourceTree = "<group>"; };
+		B8A3CED928E5CF5800A4DC05 /* SpasmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpasmViewController.swift; sourceTree = "<group>"; };
+		B8A3CEDD28E5EE5600A4DC05 /* EpiscleritViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpiscleritViewController.swift; sourceTree = "<group>"; };
+		B8A3CEDF28E5EF0400A4DC05 /* СКЛЕРИТ.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "СКЛЕРИТ.pdf"; sourceTree = "<group>"; };
+		B8A3CEE028E5EF0400A4DC05 /* Эписклерит.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Эписклерит.pdf"; sourceTree = "<group>"; };
+		B8A3CEE128E5EF0500A4DC05 /* Нарушения развития и аномалии склеры.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Нарушения развития и аномалии склеры.pdf"; sourceTree = "<group>"; };
+		B8A3CEE528E5EFA300A4DC05 /* ScleritViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScleritViewController.swift; sourceTree = "<group>"; };
+		B8A3CEE728E5F05F00A4DC05 /* ScleraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScleraViewController.swift; sourceTree = "<group>"; };
 		B8F266652767EB02005BB97D /* офтальмология.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "офтальмология.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8F266682767EB02005BB97D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8F2666A2767EB02005BB97D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +83,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B886272B28DDD97C00D228BB /* Веки */ = {
+			isa = PBXGroup;
+			children = (
+				B886273428DDE2BA00D228BB /* Птоз.pdf */,
+				B8A3CEC528E58FFD00A4DC05 /* Патология ресниц.pdf */,
+				B8A3CEBD28E58BCB00A4DC05 /* Блефарит.pdf */,
+				B8A3CEBB28E58AE400A4DC05 /* Опухоли век.pdf */,
+				B8A3CEBF28E58C5900A4DC05 /* BlepharitViewController.swift */,
+				B8A3CEB928E5893000A4DC05 /* OpuholiViewController.swift */,
+				B8A3CEC128E58E7200A4DC05 /* ResnitsiViewController.swift */,
+				B886273228DDDE4F00D228BB /* PtosViewController.swift */,
+			);
+			path = "Веки";
+			sourceTree = "<group>";
+		};
+		B8A3CEC828E5CBA200A4DC05 /* Оптическая система */ = {
+			isa = PBXGroup;
+			children = (
+				B8A3CECD28E5CBC200A4DC05 /* Астигматизм.pdf */,
+				B8A3CEC928E5CBC100A4DC05 /* Гиперметропия.pdf */,
+				B8A3CECA28E5CBC100A4DC05 /* Миопия.pdf */,
+				B8A3CECB28E5CBC100A4DC05 /* Пресбиопия.pdf */,
+				B8A3CECC28E5CBC200A4DC05 /* Спазм аккомодации.pdf */,
+				B8A3CED328E5CC6300A4DC05 /* MyopiaViewController.swift */,
+				B8A3CED928E5CF5800A4DC05 /* SpasmViewController.swift */,
+				B8A3CED728E5CE4F00A4DC05 /* AstigmatismViewController.swift */,
+				B8A3CED528E5CD6300A4DC05 /* HypermetropiaViewController.swift */,
+			);
+			path = "Оптическая система";
+			sourceTree = "<group>";
+		};
+		B8A3CEDB28E5ED5100A4DC05 /* Учебный материал */ = {
+			isa = PBXGroup;
+			children = (
+				B8A3CEC828E5CBA200A4DC05 /* Оптическая система */,
+				B8A3CEDC28E5ED6B00A4DC05 /* Склера */,
+				B886272B28DDD97C00D228BB /* Веки */,
+			);
+			name = "Учебный материал";
+			path = "Учебный материал";
+			sourceTree = "<group>";
+		};
+		B8A3CEDC28E5ED6B00A4DC05 /* Склера */ = {
+			isa = PBXGroup;
+			children = (
+				B8A3CEDD28E5EE5600A4DC05 /* EpiscleritViewController.swift */,
+				B8A3CEE528E5EFA300A4DC05 /* ScleritViewController.swift */,
+				B8A3CEE728E5F05F00A4DC05 /* ScleraViewController.swift */,
+				B8A3CEE128E5EF0500A4DC05 /* Нарушения развития и аномалии склеры.pdf */,
+				B8A3CEDF28E5EF0400A4DC05 /* СКЛЕРИТ.pdf */,
+				B8A3CEE028E5EF0400A4DC05 /* Эписклерит.pdf */,
+			);
+			path = "Склера";
+			sourceTree = "<group>";
+		};
 		B8F2665C2767EB02005BB97D = {
 			isa = PBXGroup;
 			children = (
@@ -56,8 +157,9 @@
 		B8F266672767EB02005BB97D /* офтальмология */ = {
 			isa = PBXGroup;
 			children = (
-				B8F266682767EB02005BB97D /* AppDelegate.swift */,
+				B8A3CEDB28E5ED5100A4DC05 /* Учебный материал */,
 				B8F2666A2767EB02005BB97D /* SceneDelegate.swift */,
+				B8F266682767EB02005BB97D /* AppDelegate.swift */,
 				B8F2666C2767EB02005BB97D /* ViewController.swift */,
 				B8F2666E2767EB02005BB97D /* Main.storyboard */,
 				B8F266712767EB03005BB97D /* Assets.xcassets */,
@@ -125,9 +227,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8A3CEC628E58FFD00A4DC05 /* Патология ресниц.pdf in Resources */,
+				B886273528DDE2BA00D228BB /* Птоз.pdf in Resources */,
+				B8A3CED228E5CBC200A4DC05 /* Астигматизм.pdf in Resources */,
+				B8A3CEE228E5EF0500A4DC05 /* СКЛЕРИТ.pdf in Resources */,
 				B8F266752767EB03005BB97D /* LaunchScreen.storyboard in Resources */,
+				B8A3CEE328E5EF0500A4DC05 /* Эписклерит.pdf in Resources */,
+				B8A3CECF28E5CBC200A4DC05 /* Миопия.pdf in Resources */,
+				B8A3CED028E5CBC200A4DC05 /* Пресбиопия.pdf in Resources */,
+				B8A3CED128E5CBC200A4DC05 /* Спазм аккомодации.pdf in Resources */,
+				B8A3CEBC28E58AE400A4DC05 /* Опухоли век.pdf in Resources */,
+				B8A3CEE428E5EF0500A4DC05 /* Нарушения развития и аномалии склеры.pdf in Resources */,
 				B8CFD576287C2798005B9FF5 /* Assets.xcassets in Resources */,
 				B8F266702767EB02005BB97D /* Main.storyboard in Resources */,
+				B8A3CEBE28E58BCB00A4DC05 /* Блефарит.pdf in Resources */,
+				B8A3CECE28E5CBC200A4DC05 /* Гиперметропия.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +252,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8A3CED828E5CE4F00A4DC05 /* AstigmatismViewController.swift in Sources */,
+				B8A3CEE628E5EFA300A4DC05 /* ScleritViewController.swift in Sources */,
 				B8F2666D2767EB02005BB97D /* ViewController.swift in Sources */,
+				B886273328DDDE4F00D228BB /* PtosViewController.swift in Sources */,
+				B8A3CEE828E5F05F00A4DC05 /* ScleraViewController.swift in Sources */,
+				B8A3CEDA28E5CF5800A4DC05 /* SpasmViewController.swift in Sources */,
+				B8A3CEDE28E5EE5600A4DC05 /* EpiscleritViewController.swift in Sources */,
+				B8A3CEC228E58E7200A4DC05 /* ResnitsiViewController.swift in Sources */,
+				B8A3CED628E5CD6300A4DC05 /* HypermetropiaViewController.swift in Sources */,
+				B8A3CED428E5CC6300A4DC05 /* MyopiaViewController.swift in Sources */,
+				B8A3CEC028E58C5900A4DC05 /* BlepharitViewController.swift in Sources */,
+				B8A3CEBA28E5893000A4DC05 /* OpuholiViewController.swift in Sources */,
 				B8F266692767EB02005BB97D /* AppDelegate.swift in Sources */,
 				B8F2666B2767EB02005BB97D /* SceneDelegate.swift in Sources */,
 			);
