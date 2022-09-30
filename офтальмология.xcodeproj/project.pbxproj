@@ -10,6 +10,14 @@
 		B85ECF2428E6BE340095B878 /* KeratitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85ECF2328E6BE340095B878 /* KeratitViewController.swift */; };
 		B85ECF2628E6C29C0095B878 /* konusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85ECF2528E6C29C0095B878 /* konusViewController.swift */; };
 		B85ECF2828E6C4910095B878 /* rosaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85ECF2728E6C4910095B878 /* rosaViewController.swift */; };
+		B85ECF2F28E716E80095B878 /* Приобретен.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B85ECF2B28E716E80095B878 /* Приобретен.pdf */; };
+		B85ECF3028E716E80095B878 /* Вывих и подвывих хрусталика.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B85ECF2C28E716E80095B878 /* Вывих и подвывих хрусталика.pdf */; };
+		B85ECF3128E716E80095B878 /* Врожден.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B85ECF2D28E716E80095B878 /* Врожден.pdf */; };
+		B85ECF3228E716E80095B878 /* Афакия и артифакия.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B85ECF2E28E716E80095B878 /* Афакия и артифакия.pdf */; };
+		B85ECF3428E7176A0095B878 /* VrozdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85ECF3328E7176A0095B878 /* VrozdViewController.swift */; };
+		B85ECF3628E719030095B878 /* priobrViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85ECF3528E719030095B878 /* priobrViewController.swift */; };
+		B85ECF3828E71A910095B878 /* vivixViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85ECF3728E71A910095B878 /* vivixViewController.swift */; };
+		B85ECF3A28E71B9F0095B878 /* VtorKatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85ECF3928E71B9F0095B878 /* VtorKatViewController.swift */; };
 		B886273328DDDE4F00D228BB /* PtosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B886273228DDDE4F00D228BB /* PtosViewController.swift */; };
 		B886273528DDE2BA00D228BB /* Птоз.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B886273428DDE2BA00D228BB /* Птоз.pdf */; };
 		B8A3CEBA28E5893000A4DC05 /* OpuholiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A3CEB928E5893000A4DC05 /* OpuholiViewController.swift */; };
@@ -48,6 +56,14 @@
 		B85ECF2328E6BE340095B878 /* KeratitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeratitViewController.swift; sourceTree = "<group>"; };
 		B85ECF2528E6C29C0095B878 /* konusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = konusViewController.swift; sourceTree = "<group>"; };
 		B85ECF2728E6C4910095B878 /* rosaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rosaViewController.swift; sourceTree = "<group>"; };
+		B85ECF2B28E716E80095B878 /* Приобретен.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Приобретен.pdf"; sourceTree = "<group>"; };
+		B85ECF2C28E716E80095B878 /* Вывих и подвывих хрусталика.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Вывих и подвывих хрусталика.pdf"; sourceTree = "<group>"; };
+		B85ECF2D28E716E80095B878 /* Врожден.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Врожден.pdf"; sourceTree = "<group>"; };
+		B85ECF2E28E716E80095B878 /* Афакия и артифакия.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Афакия и артифакия.pdf"; sourceTree = "<group>"; };
+		B85ECF3328E7176A0095B878 /* VrozdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VrozdViewController.swift; sourceTree = "<group>"; };
+		B85ECF3528E719030095B878 /* priobrViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = priobrViewController.swift; sourceTree = "<group>"; };
+		B85ECF3728E71A910095B878 /* vivixViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vivixViewController.swift; sourceTree = "<group>"; };
+		B85ECF3928E71B9F0095B878 /* VtorKatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VtorKatViewController.swift; sourceTree = "<group>"; };
 		B886273228DDDE4F00D228BB /* PtosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PtosViewController.swift; sourceTree = "<group>"; };
 		B886273428DDE2BA00D228BB /* Птоз.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Птоз.pdf"; sourceTree = "<group>"; };
 		B8A3CEB928E5893000A4DC05 /* OpuholiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpuholiViewController.swift; sourceTree = "<group>"; };
@@ -95,6 +111,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B85ECF2A28E716CA0095B878 /* Хрусталик */ = {
+			isa = PBXGroup;
+			children = (
+				B85ECF2E28E716E80095B878 /* Афакия и артифакия.pdf */,
+				B85ECF2D28E716E80095B878 /* Врожден.pdf */,
+				B85ECF2C28E716E80095B878 /* Вывих и подвывих хрусталика.pdf */,
+				B85ECF2B28E716E80095B878 /* Приобретен.pdf */,
+				B85ECF3328E7176A0095B878 /* VrozdViewController.swift */,
+				B85ECF3728E71A910095B878 /* vivixViewController.swift */,
+				B85ECF3928E71B9F0095B878 /* VtorKatViewController.swift */,
+				B85ECF3528E719030095B878 /* priobrViewController.swift */,
+			);
+			path = "Хрусталик";
+			sourceTree = "<group>";
+		};
 		B886272B28DDD97C00D228BB /* Веки */ = {
 			isa = PBXGroup;
 			children = (
@@ -129,6 +160,7 @@
 		B8A3CEDB28E5ED5100A4DC05 /* Учебный материал */ = {
 			isa = PBXGroup;
 			children = (
+				B85ECF2A28E716CA0095B878 /* Хрусталик */,
 				B8A3CEC828E5CBA200A4DC05 /* Оптическая система */,
 				B8A3CEDC28E5ED6B00A4DC05 /* Склера */,
 				B8A3CEE928E5F3DA00A4DC05 /* Роговица */,
@@ -257,20 +289,24 @@
 				B886273528DDE2BA00D228BB /* Птоз.pdf in Resources */,
 				B8A3CEEE28E5F92C00A4DC05 /* Розацеа кератит.pdf in Resources */,
 				B8A3CED228E5CBC200A4DC05 /* Астигматизм.pdf in Resources */,
+				B85ECF3028E716E80095B878 /* Вывих и подвывих хрусталика.pdf in Resources */,
 				B8A3CEE228E5EF0500A4DC05 /* СКЛЕРИТ.pdf in Resources */,
 				B8A3CEEB28E5F75D00A4DC05 /* Бактериальный кератит.pdf in Resources */,
 				B8F266752767EB03005BB97D /* LaunchScreen.storyboard in Resources */,
+				B85ECF3228E716E80095B878 /* Афакия и артифакия.pdf in Resources */,
 				B8A3CEE328E5EF0500A4DC05 /* Эписклерит.pdf in Resources */,
 				B8A3CECF28E5CBC200A4DC05 /* Миопия.pdf in Resources */,
 				B8A3CED028E5CBC200A4DC05 /* Пресбиопия.pdf in Resources */,
 				B8A3CEEF28E5F92C00A4DC05 /* Кератоконус и кератоглобус.pdf in Resources */,
 				B8A3CED128E5CBC200A4DC05 /* Спазм аккомодации.pdf in Resources */,
+				B85ECF3128E716E80095B878 /* Врожден.pdf in Resources */,
 				B8A3CEBC28E58AE400A4DC05 /* Опухоли век.pdf in Resources */,
 				B8A3CEE428E5EF0500A4DC05 /* Нарушения развития и аномалии склеры.pdf in Resources */,
 				B8CFD576287C2798005B9FF5 /* Assets.xcassets in Resources */,
 				B8F266702767EB02005BB97D /* Main.storyboard in Resources */,
 				B8A3CEBE28E58BCB00A4DC05 /* Блефарит.pdf in Resources */,
 				B8A3CECE28E5CBC200A4DC05 /* Гиперметропия.pdf in Resources */,
+				B85ECF2F28E716E80095B878 /* Приобретен.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,15 +323,19 @@
 				B85ECF2628E6C29C0095B878 /* konusViewController.swift in Sources */,
 				B85ECF2828E6C4910095B878 /* rosaViewController.swift in Sources */,
 				B886273328DDDE4F00D228BB /* PtosViewController.swift in Sources */,
+				B85ECF3A28E71B9F0095B878 /* VtorKatViewController.swift in Sources */,
+				B85ECF3428E7176A0095B878 /* VrozdViewController.swift in Sources */,
 				B8A3CEE828E5F05F00A4DC05 /* ScleraViewController.swift in Sources */,
 				B8A3CEDA28E5CF5800A4DC05 /* SpasmViewController.swift in Sources */,
 				B8A3CEDE28E5EE5600A4DC05 /* EpiscleritViewController.swift in Sources */,
 				B8A3CEC228E58E7200A4DC05 /* ResnitsiViewController.swift in Sources */,
 				B8A3CED628E5CD6300A4DC05 /* HypermetropiaViewController.swift in Sources */,
 				B8A3CED428E5CC6300A4DC05 /* MyopiaViewController.swift in Sources */,
+				B85ECF3828E71A910095B878 /* vivixViewController.swift in Sources */,
 				B8A3CEC028E58C5900A4DC05 /* BlepharitViewController.swift in Sources */,
 				B8A3CEBA28E5893000A4DC05 /* OpuholiViewController.swift in Sources */,
 				B8F266692767EB02005BB97D /* AppDelegate.swift in Sources */,
+				B85ECF3628E719030095B878 /* priobrViewController.swift in Sources */,
 				B8F2666B2767EB02005BB97D /* SceneDelegate.swift in Sources */,
 				B85ECF2428E6BE340095B878 /* KeratitViewController.swift in Sources */,
 			);
